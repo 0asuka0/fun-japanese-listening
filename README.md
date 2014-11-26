@@ -1,4 +1,4 @@
-fun-japanese-listening
+FUN-Japanese-Listening
 ======================
 
 for "FUN Japanese Listening" podcast
